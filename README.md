@@ -10,9 +10,7 @@ Realtime chat app using socket.io and vanilla JavaScript
 
 ## Install all dependencies 
 After download or clone run `npm install` to install all the dependancies like express,nodemon(dev dependent)
-### `npm install express`
-### `npm install nodemon -D`
-### `npm install socket.io`
+
 
 
 In the project directory, you can run:
