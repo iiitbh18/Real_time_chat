@@ -4,7 +4,7 @@ Realtime chat app using socket.io and vanilla JavaScript
 ## Screenshots
 
 <p>
-    <img src="./SCREEN.jpg" alt="Home Page" />
+    <img src="./ok1.png" alt="Home Page" />
 </p>
 
 
